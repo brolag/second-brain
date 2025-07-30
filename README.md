@@ -204,4 +204,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Created with ❤️ by [Indie Mind](https://www.indie-mind.com/)**
+**Created with ❤️ by [Alfredo Bonilla](https://alfredobonilla.com/)**
