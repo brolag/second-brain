@@ -201,3 +201,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Start with the [setup guide](INITIALIZE.md) and transform your knowledge management today.**
 
 *Template Version: 1.0 | Compatible with: Claude Code + MCP | Methodology: PARA + AI Enhancement*
+
+---
+
+**Created with ❤️ by [Indie Mind](https://www.indie-mind.com/)**
